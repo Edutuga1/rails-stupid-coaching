@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+body{
+  padding: 20px;
+  background-color: rgb(211, 208, 208);
+}
+
+@answer{
+background-color: yellow;
+}
+
+.btn-secondary{
+  background-color: blue;
+}
